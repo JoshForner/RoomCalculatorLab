@@ -1,0 +1,13 @@
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.exe
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.deps.json
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.runtimeconfig.json
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.runtimeconfig.dev.json
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.dll
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\bin\Debug\netcoreapp3.1\RoomCalculatorLab.pdb
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.csprojAssemblyReference.cache
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.csproj.CoreCompileInputs.cache
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.AssemblyInfoInputs.cache
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.AssemblyInfo.cs
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.dll
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.pdb
+C:\Users\forne\source\repos\CSHARP\RoomCalculatorLab\RoomCalculatorLab\obj\Debug\netcoreapp3.1\RoomCalculatorLab.genruntimeconfig.cache
